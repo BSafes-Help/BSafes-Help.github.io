@@ -15,18 +15,18 @@ nav_order: 1
 
 # Appendix B - Glossary
 
-<table border="1" width="100%">
-	<col style="width:40%">
-	<col style="width:30%">
-	<col style="width:30%">
-	
+<table border="1" width="">
+	<col style="width:300px">
+	<col style="width:100px">
+	<col style="width:200px">
+	<thead>
 	<tr>
 		<th>Fruits</th>
 		<th>Vitamin A</th>
 		<th>Vitamin C</th>
 	</tr>
-	
-	
+	</thead>
+	<tbody>
 	<tr>
 		<th>Apples</th>
 		<td>98 ui</td>
@@ -42,7 +42,7 @@ nav_order: 1
 		<td>76 ui</td>
 		<td>10.3 mg</td>
 	</tr>
-	
+	</tbody>
 </table>
 
 
