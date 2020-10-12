@@ -17,7 +17,7 @@ nav_order: 1
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
+| ok           | BSafes is a secure note taking system with end-to-end encryption, for teams and individuals.| nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
