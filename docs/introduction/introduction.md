@@ -15,6 +15,25 @@ nav_order: 1
 
 # Appendix B - Glossary
 
+<table style="width: 100%">
+    <colgroup>
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 70%;">
+       <col span="1" style="width: 15%;">
+    </colgroup>
+    
+    
+    
+    <!-- Put <thead>, <tbody>, and <tr>'s here! -->
+    <tbody>
+        <tr>
+            <td style="background-color: #777">15%</td>
+            <td style="background-color: #aaa">70%</td>
+            <td style="background-color: #777">15%</td>
+        </tr>
+    </tbody>
+</table>
+
 
 <table>
   <tr>
