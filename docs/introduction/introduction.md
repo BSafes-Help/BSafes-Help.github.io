@@ -15,10 +15,10 @@ nav_order: 1
 
 # Appendix B - Glossary
 
-<table border="1" width="">
-	<col style="width:300px">
-	<col style="width:100px">
-	<col style="width:200px">
+<table border="1">
+	<col style="width:300">
+	<col style="width:100">
+	<col style="width:200">
 	<thead>
 	<tr>
 		<th>Fruits</th>
