@@ -22,11 +22,6 @@ nav_order: 1
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-|             |             |
-|:-----------|:-----------|
-| Access Control | The process of granting or denying specific requests to: 1) obtain and use information and related information processing services; and 2) enter specific physical facilities (e.g., federal buildings, military establishments, border crossing entrances). <br><br>SOURCE: FIPS 201-2 |
-| Accountability | The security goal that generates the requirement for actions of an entity to be traced uniquely to that entity. This supports non-repudiation, deterrence, fault isolation, intrusion detection and prevention, and after-action recovery and legal action. <br><br>SOURCE: SP 800-27 Rev. A |
-| Assurance Grounds | for confidence that the other four security goals (integrity, availability, confidentiality, and accountability) have been adequately met by a specific implementation. “Adequately met” includes (1) functionality that performs correctly, (2) sufficient protection against unintentional errors (by users or software), and (3) sufficient resistance to intentional penetration or by-pass.<br><br>SOURCE: SP 800-27 Rev. A |
 
 ### What is BSafes?
 BSafes is a secure note taking system with end-to-end encryption, for teams and individuals.
