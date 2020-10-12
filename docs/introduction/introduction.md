@@ -15,6 +15,19 @@ nav_order: 1
 
 # Appendix B - Glossary
 
+
+  <table border=1 width=400>
+    <tr>
+      <td width=30%>
+        Cell width is 30%
+      </td>
+      <td width=70%>
+        Cell width is 70%
+      </td>
+  </tr>
+  </table>
+
+
 <table border="1">
 	<col style="width:300">
 	<col style="width:100">
