@@ -15,12 +15,10 @@ nav_order: 1
 
 # Appendix B - Glossary
 
-| head1        | head two                                                                                                                         | three |
-|:-------------|:---------------------------------------------------------------------------------------------------------------------------------|:------|
-| Access Control | The process of granting or denying specific requests to: 1) obtain and use information and related information processing services; and 2) enter specific physical facilities (e.g., federal buildings, military establishments, border crossing entrances). <br><br>SOURCE: FIPS 201-2 . | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| head1        | head two                                  | three | four | five |
+|:-------------|:------------------------------------------|:------|:-----|:-----|
+| Access Control | The process of granting or denying specific requests to: 1) obtain and use information and related information processing services; and 2) enter specific physical facilities (e.g., federal buildings, military establishments, border crossing entrances). <br><br>SOURCE: FIPS 201-2 . | nice  |    |    |
+
 
 
 ### What is BSafes?
