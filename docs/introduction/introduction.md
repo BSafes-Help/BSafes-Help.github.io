@@ -14,6 +14,7 @@ nav_order: 1
 {:toc}
 
 # Appendix B - Glossary
+
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
