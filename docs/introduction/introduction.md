@@ -75,7 +75,8 @@ nav_order: 1
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="background-color:red">
+      A
     </td>
     <td>
       B
