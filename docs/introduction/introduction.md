@@ -15,23 +15,34 @@ nav_order: 1
 
 # Appendix B - Glossary
 
-<table style="width: 100%">
-    <colgroup>
-       <col span="1" style="width: 15%;">
-       <col span="1" style="width: 70%;">
-       <col span="1" style="width: 15%;">
-    </colgroup>
-    
-    
-    
-    <!-- Put <thead>, <tbody>, and <tr>'s here! -->
-    <tbody>
-        <tr>
-            <td style="background-color: #777">15%</td>
-            <td style="background-color: #aaa">70%</td>
-            <td style="background-color: #777">15%</td>
-        </tr>
-    </tbody>
+<table border="1" width="100%">
+	<col style="width:40%">
+	<col style="width:30%">
+	<col style="width:30%">
+	<thead>
+	<tr>
+		<th>Fruits</th>
+		<th>Vitamin A</th>
+		<th>Vitamin C</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+		<th>Apples</th>
+		<td>98 ui</td>
+		<td>8.4 mg</td>
+	</tr>
+	<tr>
+		<th>Oranges</th>
+		<td>295 ui</td>
+		<td>69.7 mg</td>
+	</tr>
+	<tr>
+		<th>Bananas</th>
+		<td>76 ui</td>
+		<td>10.3 mg</td>
+	</tr>
+	</tbody>
 </table>
 
 
