@@ -155,6 +155,7 @@ nav_order: 1
   </tr>
   <tr>
     <td colspan="4">
+	     Information Protection Processes and Procedures (PR.IP): Security policies (that address purpose, scope, roles, responsibilities, management commitment, and coordination among organizational entities), processes, and procedures are maintained and used to manage protection of information systems and assets.
     </td>
     <td>
       P1
